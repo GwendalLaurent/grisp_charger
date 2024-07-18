@@ -1,7 +1,7 @@
 grisp_charger
 =====
 
-A GRiSP application
+To test the grisp charger, you need to add the grisp repo on the branch `gl/charger` in your `_checkouts` folder
 
 Build
 -----
